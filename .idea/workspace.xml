@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b0b873e-16ea-485b-b4d2-b40d1db821e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/vaccineavailabilityalerts">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/vaccineavailabilityalerts">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="vaccineavailabilityalerts" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="vaccineavailabilityalerts" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="vaccineavailabilityalerts" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="vaccineavailabilityalerts" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sepsuYoaLxiPREDW63pMeVGQlE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vaccineuserdetails" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\iLearn\projects\vaccineavailabilityalerts\vaccineavailabilityalerts\src\main\resources" />
+      <recent name="C:\iLearn\projects\vaccineavailabilityalerts\vaccineavailabilityalerts\src\main\java\com\cowin\vaccineavailabilityalerts" />
+      <recent name="C:\iLearn\projects\vaccineavailabilityalerts" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.vaccineavailabilityalerts [build]">
+    <configuration name="VaccineavailabilityalertsApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cowin.vaccineavailabilityalerts.VaccineavailabilityalertsApplication" />
+      <module name="vaccineavailabilityalerts.vaccineavailabilityalerts.main~1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cowin.vaccineavailabilityalerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VaccineavailabilityalertsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.cowin.vaccineavailabilityalerts.VaccineavailabilityalertsApplication" />
+      <module name="vaccineavailabilityalerts.vaccineavailabilityalerts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cowin.vaccineavailabilityalerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests in 'vaccineavailabilityalerts.vaccineavailabilityalerts'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/vaccineavailabilityalerts" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="vaccineavailabilityalerts [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/vaccineavailabilityalerts" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="vaccineavailabilityalerts [clean jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/vaccineavailabilityalerts" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.vaccineavailabilityalerts [build]" />
+        <item itemvalue="Application.VaccineavailabilityalertsApplication (1)" />
+        <item itemvalue="Gradle.Tests in 'vaccineavailabilityalerts.vaccineavailabilityalerts'" />
+        <item itemvalue="Application.VaccineavailabilityalertsApplication" />
+        <item itemvalue="Gradle.vaccineavailabilityalerts [clean jar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b0b873e-16ea-485b-b4d2-b40d1db821e6" name="Default Changelist" comment="" />
+      <created>1621243120084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621243120084</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1671" y="9" key="#Project_Structure" timestamp="1621317688908">
+      <screen x="-1920" y="9" width="1536" height="824" />
+    </state>
+    <state x="-1671" y="9" key="#Project_Structure/0.0.1280.680/-1920.9.1536.824@-1920.9.1536.824" timestamp="1621317688908" />
+    <state x="-1393" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621307480030">
+      <screen x="-1920" y="9" width="1536" height="824" />
+    </state>
+    <state x="-1393" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/-1920.9.1536.824@-1920.9.1536.824" timestamp="1621307480030" />
+    <state x="-1371" y="176" key="FileChooserDialogImpl" timestamp="1621320605340">
+      <screen x="-1920" y="9" width="1536" height="824" />
+    </state>
+    <state x="-1371" y="176" key="FileChooserDialogImpl/0.0.1280.680/-1920.9.1536.824@-1920.9.1536.824" timestamp="1621320605340" />
+    <state width="1493" height="236" key="GridCell.Tab.0.bottom" timestamp="1621850883201">
+      <screen x="-1920" y="9" width="1536" height="824" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.9.1536.824@-1920.9.1536.824" timestamp="1621850883201" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.9.1536.824@0.0.1280.680" timestamp="1621245909339" />
+    <state width="1493" height="236" key="GridCell.Tab.0.center" timestamp="1621850883201">
+      <screen x="-1920" y="9" width="1536" height="824" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.0.center/0.0.1280.680/-1920.9.1536.824@-1920.9.1536.824" timestamp="1621850883201" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680/-1920.9.1536.824@0.0.1280.680" timestamp="1621245909339" />
+    <state width="1493" height="236" key="GridCell.Tab.0.left" timestamp="1621850883201">
+      <screen x="-1920" y="9" width="1536" height="824" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.0.left/0.0.1280.680/-1920.9.1536.824@-1920.9.1536.824" timestamp="1621850883201" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680/-1920.9.1536.824@0.0.1280.680" timestamp="1621245909339" />
+    <state width="1493" height="236" key="GridCell.Tab.0.right" timestamp="1621850883201">
+      <screen x="-1920" y="9" width="1536" height="824" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.0.right/0.0.1280.680/-1920.9.1536.824@-1920.9.1536.824" timestamp="1621850883201" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680/-1920.9.1536.824@0.0.1280.680" timestamp="1621245909339" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1621258739031">
+      <screen x="-1920" y="9" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1280.680/-1920.9.1536.824@-1920.9.1536.824" timestamp="1621258739031" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1621258739031">
+      <screen x="-1920" y="9" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1280.680/-1920.9.1536.824@-1920.9.1536.824" timestamp="1621258739031" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1621258739031">
+      <screen x="-1920" y="9" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1280.680/-1920.9.1536.824@-1920.9.1536.824" timestamp="1621258739031" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1621258739031">
+      <screen x="-1920" y="9" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1280.680/-1920.9.1536.824@-1920.9.1536.824" timestamp="1621258739031" />
+    <state x="-1643" y="9" key="SettingsEditor" timestamp="1621419272217">
+      <screen x="-1920" y="9" width="1536" height="824" />
+    </state>
+    <state x="-1643" y="9" key="SettingsEditor/0.0.1280.680/-1920.9.1536.824@-1920.9.1536.824" timestamp="1621419272217" />
+    <state x="-1827" y="102" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1621849593820">
+      <screen x="-1920" y="9" width="1536" height="824" />
+    </state>
+    <state x="-1827" y="102" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680/-1920.9.1536.824@-1920.9.1536.824" timestamp="1621849593820" />
+    <state x="-1546" y="31" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1621330861027">
+      <screen x="-1920" y="9" width="1536" height="824" />
+    </state>
+    <state x="-1546" y="31" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680/-1920.9.1536.824@-1920.9.1536.824" timestamp="1621330861027" />
+    <state x="-1443" y="154" width="640" height="534" key="find.popup" timestamp="1621257945735">
+      <screen x="-1920" y="9" width="1536" height="824" />
+    </state>
+    <state x="-1443" y="154" width="640" height="534" key="find.popup/0.0.1280.680/-1920.9.1536.824@-1920.9.1536.824" timestamp="1621257945735" />
+    <state x="-1489" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1621415579088">
+      <screen x="-1920" y="9" width="1536" height="824" />
+    </state>
+    <state x="-1489" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/-1920.9.1536.824@-1920.9.1536.824" timestamp="1621415579088" />
+  </component>
+</project>

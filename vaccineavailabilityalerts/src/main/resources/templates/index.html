@@ -1,0 +1,79 @@
+<html lang="en">
+<html xmlns:th="https://thymeleaf.org">
+<head>
+    <title>Cowin Vaccine Availability Alerts</title>
+    <style>
+        .context {
+            margin: auto;
+            width: 18%;
+            border: 3px solid black;
+            padding: 22px;
+            border-radius: 14px;
+        }
+        #logo {
+            padding-left: inherit;
+        }
+    </style>
+</head>
+<body style="background-color:#9FC5E8;">
+<br>
+<div class="Context">
+<div class="inner-context">
+<h2>Register a new pin-code</h2>
+<form action="registerPin" method="post">
+    <h2>Select Vaccine Type</h2>
+    <input type="radio" id="anyVaccinePin" name="vaccineType" value="" checked> <label for="vaccineType">Doesn't matter</label><br>
+    <input type="radio" id="covaxinPin" name="vaccineType" value="COVAXIN"> <label for="vaccineType">COVAXIN</label><br>
+    <input type="radio" id="covishieldPin" name="vaccineType" value="COVISHIELD"> <label for="vaccineType">COVISHIELD</label><br>
+    <br>
+    <table>
+        <tr>
+            <td><label for="pinCode">Pin Code</label></td>
+            <td><input type="text" name="pinCode" required></input></td>
+        </tr>
+        <tr>
+            <td><label for="age">Age</label></td>
+            <td><input type="text" name="age" required></input></td>
+        </tr>
+        <tr>
+            <td><label for="email">Email Id</label></td>
+            <td><input type="text" name="email" required></input></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Submit"></input></td>
+        </tr>
+    </table>
+</form>
+
+<br>
+<h2>Register a new district</h2>
+<form action="registerDistrict" method="post">
+    <h2>Select Vaccine Type</h2>
+    <input type="radio" id="anyVaccinePin" name="vaccineType" value="" checked> <label for="vaccineType">Doesn't matter</label><br>
+    <input type="radio" id="covaxinDistrict" name="vaccineType" value="COVAXIN"> <label for="vaccineType">COVAXIN</label><br>
+    <input type="radio" id="covishieldDistrict" name="vaccineType" value="COVISHIELD"> <label for="vaccineType">COVISHIELD</label><br>
+    <br>
+    <table>
+        <tr>
+            <td><label for="district">District</label></td>
+            <td><input type="text" name="district" required></input></td>
+        </tr>
+        <tr>
+            <td><label for="age">Age</label></td>
+            <td><input type="text" name="age" required></input></td>
+        </tr>
+        <tr>
+            <td><label for="email">Email Id</label></td>
+            <td><input type="text" name="email" required></input></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><input type="submit" value="Submit"></input></td>
+        </tr>
+    </table>
+</form>
+</div>
+</div>
+</body>
+</html>
